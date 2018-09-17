@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+
+h1{
+    font-family: "Oswald";
+}
+
+h3{
+    float: right;
+    font: bold;
+}
+
+.first{
+    float: right;
+    font-family: "Oswald";
+}

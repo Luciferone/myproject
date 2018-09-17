@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.left{
+    float: left;
+    bottom: 10px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    
+    }
+    
+    .left-bottom{ 
+    display: inline-block;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    bottom: 100px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    
+    }
+    
+    
+    .right{
+    float: right;
+    bottom: 10px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    
+    }
+    
+    .right-bottom{
+    display: inline-block;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    bottom: 100px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    
+    }
+
+
